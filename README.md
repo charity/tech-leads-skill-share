@@ -1,30 +1,64 @@
 # So you want to start a tech leaders study group
 
-Mazel tov! We did this in the fall of 2017. It was a great experience, and helped a lot of us brainstorm, problem-solve and figure out new priorities and goals. A lot of work went into making it the great experience it was. This document is designed to help you bootstrap a group of your own.
+Mazel tov! We did this in August of 2017. It was a great experience, and helped a lot of us brainstorm, problem-solve and figure out new priorities and goals. A lot of work went into making it the great experience it was. This document is designed to help you bootstrap a group of your own.
 
-### Mission
+### Mission statement
 
-Leadership is not a spot on the org chart, or a role someone can assign you, or a set of facts you can memorize.  Leadership is a muscle that every one of us has to exercise.  It helps to have a set of peers you can be radically vulnerable with, who you can swap stories and experiences with and hold each other accountable.  
+Leadership is not a spot on the org chart, or a role someone can assign you, or a set of facts you can memorize.  Leadership is a muscle that every one of us has to exercise.  It helps to have a set of peers you can be radically vulnerable with, who you can swap stories and experiences with and hold each other accountable.  And who you can trust not to gossip about what gets shared.
 
 The goal of this is not group therapy or support -- though there may be plenty of both -- the goal is to **get better at our jobs** by learning and practicing leadership skills in tech.
 
-### Basic logistics
+## Checklist
+  
+- [ ] [Invitations](#Invites): Curate a well-balanced group of 6-10 interested people, with varying skill levels, roles, and diverse backgrounds.
+- [ ] [Logistics](#Logistics): Set a start date/time and decide on a venue.  Identify at least one facilitator. Create a mailing list or Facebook group for discussion, also make a recurring calendar invite.
+- [ ] [Preparation](#Preparation): Establish the ground rules and code of conduct.  Distribute the recurring homework assignment.  Make sure everyone can commit to attending at least 4 of the 6 weeks. Ask everyone to write down an intention: how do they hope to level up in their career via this group?
+- [ ] [Week 1](#Week-1): intros.  And a facilitated discussion about areas of focus.
+- [ ] [Week 2-6](#Week-2-6): for the next four weeks, send out the weekly theme on Thursday before the meeting.  If needed, experiment with checkins or other pairwise social exercises to accelerate comfort level and progress on goals.
+- [ ] [Last Week](#Last-Week): wrap up.  Take the pulse of the group: do they want to keep going?  Discuss frequency and invite policy.
 
-* We met from 4-5:30pm on Sunday afternoons at a team member’s home. A fair amount of thought went into this: 
+### Invites
+
+ (things to keep in mind when choosing members)
+* You are curating a group, not inviting your best buds. The group dynamics are the most important element of this.
+* Our sweet spot was around eight people (we invited 10 to participate, had 6-9 in attendance each week)
+* Don't invite anyone you can't trust. Confidentiality and a generally high level of trustworthiness is absolutely critical. Gossip leaking to third parties would’ve killed our fragile vibe stone dead. We were explicit: if you leak, you get kicked out.
+* Good to have: broad representation across race, age, orientation, gender, seniority, role. This contributed hugely to the richness of our discussions, see below
+* Don't invite people who work together.  
+* Try balancing your group so that straight white dudes are a minority.  (It's good for them!)
+* What we could’ve done better: less connected members took a while to figure out existing relationships. We should’ve started first meeting with introductions, eg: “I’m X, I’m here because Charity met me while standing in line for ice cream and convinced me to start my own aerospace company”
+
+### Logistics
+
+* We met from 4-5:30pm on Sunday afternoons at my home. A fair amount of thought went into this: 
     * The setting seemed to encourage more intimacy than an office setting,
     * it did not take up a full weekend evening,
     * we didn't have to try and muster up our most relaxed, vulnerable selves at the end of a long work day, and
     * it let out before Game of Thrones started at 6.
-* We initially met for six consecutive weeks, and required a commitment of at *least* four weeks
-* We requested that people tuck away their phones, do a piece of homework and commit to being fully present.
+* We initially met for six consecutive weeks, and required everyone to commit to at *least* four of them. This was to create vulnerability and trust and get to know each other better as quickly as possible.
+* You need a facilitator.  I started out reluctant to explicitly facilitate, but found it went much better with a firmer hand on the wheel.
 
-### Things to keep in mind when choosing members
+### Preparation
 
-* Our sweet spot was around eight people, located within easy weekend-commuting distance of the meeting location (we invited 10 to participate, had 6-9 in attendance each week)
-* Essential: the ability to keep confidentiality, high level of trustworthiness. Gossip leaking to third parties would’ve killed our fragile vibe stone dead
-* Good to have: broad representation across race, age, orientation, gender, seniority, role. This contributed hugely to the richness of our discussions, see below
-* Other considerations: don't invite people who work together.  Consider including a minority of straight white dudes.
-* What we could’ve done better: less connected members took a while to figure out existing relationships. We should’ve started first meeting with introductions, eg: “I’m X, I’m here because Charity met me while standing in line for ice cream and convinced me to start my own aerospace company”
+* Homework: using the below diagram, we discussed where we were at in three broad areas: work, family and self. This turned out to be such an enormously effective icebreaker and meeting opener, we’re keeping it as we move to informal meetings.
+![homework](https://github.com/charity/tech-leads-study-group/images/homework.png)
+* It was definitely noticeable when people had set aside time to mull over the homework, vs dashing it out in a hurry.
+* Have a code of conduct.  Share it in advance.
+* Send around the reading list and resources (see bottom).  It's helpful to have some shared context and vocabulary.
+* Ask people to get there a few minutes early.  It's really disruptive to have people arrive late.
+* Your facilitator should prepare an outline of the 90 minutes, and keep everyone roughly on time.
+* Ask everyone to write down an intention for the next 6 weeks.  How do you want to level up in your career? 
+
+#### Ground rules, code of conduct
+
+* Put your phone away (exceptions made for on call or babysitters)
+* Be fully present
+* Do your homework before you get there.  Set aside some time to reflect, don't scribble it in haste.
+* Show up early: we start on time
+* You will be kicked out for repeating anything shared in confidence
+* Use nonviolent communication ("I feel ...")
+* Dig deep.  Listen hard.  Don't dominate the conversation.  This is not a social club, let's make the time meaningful and valuable.
+* I recommend having tea or nonalcoholic beverages only on hand, though cocktails are nice afterwards.
 
 ### Exercises we tried
 
@@ -35,7 +69,17 @@ The goal of this is not group therapy or support -- though there may be plenty o
 * Accountability buddies: we paired off to work on specific personal challenges, and checked in with one another mid-week. A lot of us got huge tasks accomplished by virtue of this
 * At the last meeting, our homework included extra questions: What did I learn? Where do I want to be in a year?
 
-### Topics that came up for us
+### Week 1 
+
+#### sample agendas
+
+* (5 min) Facilitator kicks off by welcoming everyone, acknowledging that this is gonna feel hella awkward for the first week or two, talks about the point of the group: this is not therapy, this is because we all want to level up at our careers and support each other in leveling up too.
+* (20-25 min) Go around the room in a circle doing introductions (~2-3 min/person, allow time for some detail. explain how you are connected to the organizer(s).)
+* (30-45 min) Go around the room (or have facilitator call on folks at random, ~4-5 min/person and have them share two of the 6 homework answers they wrote down.  Whichever two are calling out to them the most.  Give any other useful context about how this relates to what's going on in your life right now and why you are here.  Then share your intention -- what do you hope to get out of the next 6 weeks?  How do you hope to level up in your life and/or career?  What surprises are you most open to?
+* (10-15 min) Gather topics and themes.  What in particular is this group interested in learning about, or what are they particularly equipped to teach on?  Take notes, facilitator, and coalesce into four topic areas for the next 4 weeks.
+    * Note: the most successful topics were very personal (e.g. "coping strategies and self-care" we could have done four weeks on that!).  the least successful topics were impersonal (e.g. "how to run a meeting")
+
+#### Topics that came up for us
 
 * Engineering management, including interviewing
 * Running and facilitating meetings
@@ -44,6 +88,40 @@ The goal of this is not group therapy or support -- though there may be plenty o
 * Coping strategies/self care
 * Recruiting
 * Assertiveness
+
+### Weeks 2-6
+
+* Send out the topic on Thursday before the Sunday meeting.
+* Encourage everyone to keep it in the back of their minds and jot down any useful stories that come to mind, any questions, any challenges they have now or in the past that relate even loosely to the theme.
+* Facilitator should come up with a loose outline beforehand and keep the meeting on track for 90 minutes total.  Can't make anyone late for game of thrones.
+* Sample agenda 1: 
+    * 10 min, homework circle
+    * 70 min, facilitated discussion
+    * 10 min, closing and wrap-up
+    
+* Sample agenda 2:
+    * 10 min, homework circle
+    * 10 min, gather scenarios for role play
+    * 30 min, role play in pairs
+    * 40 min, discuss and re-enact, give and get feedback
+    
+* Sample agenda 3:
+    * 15 min, homework circle
+    * 45 min, split into two smaller groups to workshop different questions
+    * 30 min, come back together and discuss findings (15 min each)
+    
+#### Mid-week checkins?
+
+* How are things feeling after week 2?  getting less awkward?  Ours still felt spotty, so we decided to randomly pair up and get together once during the week for tea or a cocktail.  This was really instrumental in helping the less-connected people feel closer to the group.
+* We also experimented with accountability buddies.  After the self-care session, each of us set an intention to improve one unit of self-care.  We checked in with our buddy throughout the week to see if having someone check in affected our ability to meet our commitments.
+
+### Last week
+
+* Leave at least the last 30 minutes to discuss what impact the group has had on each person (~4-5 minutes apiece).  
+* At the end, discuss whether the group wants to keep going or not, keep requiring homework or not (some folks adopted it as a personal habit after this), or wants the group email list/FB group to live on instead of in-person meetings, etc.  Our group opted to keep going but less frequently; we have settled into a rhythm of around monthly, and the list gets occasionally used for questions.
+* Someone please let me know how it went for you!
+
+## In conclusion
 
 ### What worked
 
