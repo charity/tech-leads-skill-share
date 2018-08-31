@@ -12,12 +12,12 @@ The goal of this is not group therapy or support -- though there may be plenty o
 
 So you want to start a tech leads group.  Here is your list of things to consider, prepare, or do.
   
-- [ ] [**Invitations**](#Invites): Curate a well-balanced group of 6-10 interested people, with varying skill levels, roles, and diverse backgrounds.
-- [ ] [**Logistics**](#Logistics): Set a start date/time and decide on a venue.  Identify at least one facilitator. Create a mailing list or Facebook group for discussion, also make a recurring calendar invite.
-- [ ] [**Preparation**](#Preparation): Establish the ground rules and code of conduct.  Distribute the recurring homework assignment.  Make sure everyone can commit to attending at least 4 of the 6 weeks. Ask everyone to write down an intention: how do they hope to level up in their career via this group?
-- [ ] [**Week 1**](#Week-1): intros.  And a facilitated discussion about areas of focus.
-- [ ] [**Week 2-6**](#Week-2-6): for the next four weeks, send out the weekly theme on Thursday before the meeting.  If needed, experiment with checkins or other pairwise social exercises to accelerate comfort level and progress on goals.
-- [ ] [**Last Week**](#Last-Week): wrap up.  Take the pulse of the group: do they want to keep going?  Discuss frequency and invite policy.
+- [ ] [**Invitations**](#invites): Curate a well-balanced group of 6-10 interested people, with varying skill levels, roles, and diverse backgrounds.
+- [ ] [**Logistics**](#logistics): Set a start date/time and decide on a venue.  Identify at least one facilitator. Create a mailing list or Facebook group for discussion, also make a recurring calendar invite.
+- [ ] [**Preparation**](#preparation): Establish the ground rules and code of conduct.  Distribute the recurring homework assignment.  Make sure everyone can commit to attending at least 4 of the 6 weeks. Ask everyone to write down an intention: how do they hope to level up in their career via this group?
+- [ ] [**Week 1**](#week-1): intros.  And a facilitated discussion about areas of focus.
+- [ ] [**Week 2-6**](#week-2-6): for the next four weeks, send out the weekly theme on Thursday before the meeting.  If needed, experiment with checkins or other pairwise social exercises to accelerate comfort level and progress on goals.
+- [ ] [**Last Week**](#last-week): wrap up.  Take the pulse of the group: do they want to keep going?  Discuss frequency and invite policy.
 
 ### Invites
 There are lots of things to keep in mind when choosing members. Some of these considerations will conflict with others; it is always a judgment call.  The character of your group will be defined by who you gather, so this is perhaps the most important step of all.  Here is a copy of the [invitation email](https://github.com/charity/tech-leads-skill-share/blob/master/Invitation.md) I sent out, which you are welcome to copy and modify.
