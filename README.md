@@ -45,7 +45,9 @@ There are lots of things to keep in mind when choosing members. Some of these co
 ### Preparation
 
 * Homework: using the below diagram, we discussed where we were at in three broad areas: work, family and self. This turned out to be such an enormously effective icebreaker and meeting opener, we’re keeping it as we move to informal meetings.
-![homework](https://github.com/charity/tech-leads-study-group/images/homework.png)
+
+![homework](images/updates.png)
+
 * Send around the reading list and resources (see bottom), and your code of conduct.
 * Ask people to get there a few minutes early.  It's really disruptive to have people arrive late.
 * Your facilitator should prep an outline of the 90 minutes, and keep everyone roughly on time.
@@ -97,7 +99,9 @@ There are lots of things to keep in mind when choosing members. Some of these co
     * Assertiveness
 * Exercises we tried
     * Homework: using the below diagram, we discussed where we were at in three broad areas: work, family and self. This turned out to be such an enormously effective icebreaker and meeting opener, we’re keeping it as we move to informal meetings.
-![homework](https://github.com/charity/tech-leads-study-group/images/homework.png)
+
+    ![homework](images/updates.png)
+
     * Role playing: we workshopped interviews by role-playing difficult candidates. Always a stimulating experience
     * Asking peers about coping strategies: a lot of times, family and friends saw things very differently
     * Accountability buddies: we paired off to work on specific personal challenges, and checked in with one another mid-week. A lot of us got huge tasks accomplished by virtue of this
